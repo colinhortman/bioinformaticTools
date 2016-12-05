@@ -5,7 +5,7 @@ This is a collection of tools that I created during my time at UCSC.  Many tools
 ## annotateVcfFromNCBI.py
  This is a class that will take in a variant isec file and return annotations based on reference genes.
  isec is a BCFtool that can be found here: https://samtools.github.io/bcftools/bcftools-man.html#isec
-# The goal of this program is to help identify the proteins that are common among several samples.
+### The goal of this program is to help identify the proteins that are common among several samples.
   Use a redirect of standard out to create a text file.  This file will be used by countVariances.py
 Example $py annotateVcfWithNCBI.py >annotationSample1.txt
 ###  Warning: 
