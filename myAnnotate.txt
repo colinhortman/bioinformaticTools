@@ -1,0 +1,406 @@
+There were 305 lines in the variation file.
+# positions: 305 (if not same as number of lines, may cause errors)
+Gene Record Made, we have liftoff.
+
+Mutated Spot: 558
+1:558:1371
+Mutated product: chromosomal replication initiation protein DnaA
+Mutated gene:  
+
+Mutated Spot: 10846
+10268:10846:12289
+Mutated product: DHH family phosphoesterase
+Mutated gene:  
+
+Mutated Spot: 10849
+10268:10849:12289
+Mutated product: DHH family phosphoesterase
+Mutated gene:  
+
+Mutated Spot: 10829
+10268:10829:12289
+Mutated product: DHH family phosphoesterase
+Mutated gene:  
+
+Mutated Spot: 10843
+10268:10843:12289
+Mutated product: DHH family phosphoesterase
+Mutated gene:  
+
+Mutated Spot: 10831
+10268:10831:12289
+Mutated product: DHH family phosphoesterase
+Mutated gene:  
+
+Mutated Spot: 10825
+10268:10825:12289
+Mutated product: DHH family phosphoesterase
+Mutated gene:  
+
+Mutated Spot: 10828
+10268:10828:12289
+Mutated product: DHH family phosphoesterase
+Mutated gene:  
+
+Mutated Spot: 10832
+10268:10832:12289
+Mutated product: DHH family phosphoesterase
+Mutated gene:  
+
+Mutated Spot: 10852
+10268:10852:12289
+Mutated product: DHH family phosphoesterase
+Mutated gene:  
+
+Mutated Spot: 10855
+10268:10855:12289
+Mutated product: DHH family phosphoesterase
+Mutated gene:  
+
+Mutated Spot: 107791
+107671:107791:108306
+Mutated product: glutathione S-transferase
+Mutated gene:  
+
+Mutated Spot: 124843
+124554:124843:126317
+Mutated product: hypothetical protein
+Mutated gene:  
+
+Mutated Spot: 14142
+12802:14142:14184
+Mutated product: replicative DNA helicase
+Mutated gene:  
+
+Mutated Spot: 129738
+129582:129738:131207
+Mutated product: amino acid ABC transporter substrate-binding
+Mutated gene:  
+
+Mutated Spot: 140847
+140074:140847:140853
+Mutated product: ribonuclease
+Mutated gene:  
+
+Mutated Spot: 140826
+140074:140826:140853
+Mutated product: ribonuclease
+Mutated gene:  
+
+Mutated Spot: 151513
+150991:151513:152214
+Mutated product: serine protease
+Mutated gene:  
+
+Mutated Spot: 154769
+154248:154769:155366
+Mutated product: hypothetical protein
+Mutated gene:  
+
+Mutated Spot: 156031
+155363:156031:156133
+Mutated product: hypothetical protein
+Mutated gene:  
+
+Mutated Spot: 16506
+15610:16506:16833
+Mutated product: esterase
+Mutated gene:  
+
+Mutated Spot: 16487
+15610:16487:16833
+Mutated product: esterase
+Mutated gene:  
+
+Mutated Spot: 16495
+15610:16495:16833
+Mutated product: esterase
+Mutated gene:  
+
+Mutated Spot: 16477
+15610:16477:16833
+Mutated product: esterase
+Mutated gene:  
+
+Mutated Spot: 16486
+15610:16486:16833
+Mutated product: esterase
+Mutated gene:  
+
+Mutated Spot: 16459
+15610:16459:16833
+Mutated product: esterase
+Mutated gene:  
+
+Mutated Spot: 16480
+15610:16480:16833
+Mutated product: esterase
+Mutated gene:  
+
+Mutated Spot: 16456
+15610:16456:16833
+Mutated product: esterase
+Mutated gene:  
+
+Mutated Spot: 16450
+15610:16450:16833
+Mutated product: esterase
+Mutated gene:  
+
+Mutated Spot: 16509
+15610:16509:16833
+Mutated product: esterase
+Mutated gene:  
+
+Mutated Spot: 16504
+15610:16504:16833
+Mutated product: esterase
+Mutated gene:  
+
+Mutated Spot: 16510
+15610:16510:16833
+Mutated product: esterase
+Mutated gene:  
+
+Mutated Spot: 158431
+157053:158431:160601
+Mutated product: hypothetical protein
+Mutated gene:  
+
+Mutated Spot: 158492
+157053:158492:160601
+Mutated product: hypothetical protein
+Mutated gene:  
+
+Mutated Spot: 158483
+157053:158483:160601
+Mutated product: hypothetical protein
+Mutated gene:  
+
+Mutated Spot: 158489
+157053:158489:160601
+Mutated product: hypothetical protein
+Mutated gene:  
+
+Mutated Spot: 158501
+157053:158501:160601
+Mutated product: hypothetical protein
+Mutated gene:  
+
+Mutated Spot: 17272
+16937:17272:18040
+Mutated product: endonuclease
+Mutated gene:  
+
+Mutated Spot: 17276
+16937:17276:18040
+Mutated product: endonuclease
+Mutated gene:  
+
+Mutated Spot: 17239
+16937:17239:18040
+Mutated product: endonuclease
+Mutated gene:  
+
+Mutated Spot: 17248
+16937:17248:18040
+Mutated product: endonuclease
+Mutated gene:  
+
+Mutated Spot: 17230
+16937:17230:18040
+Mutated product: endonuclease
+Mutated gene:  
+
+Mutated Spot: 17233
+16937:17233:18040
+Mutated product: endonuclease
+Mutated gene:  
+
+Mutated Spot: 17290
+16937:17290:18040
+Mutated product: endonuclease
+Mutated gene:  
+
+Mutated Spot: 17245
+16937:17245:18040
+Mutated product: endonuclease
+Mutated gene:  
+
+Mutated Spot: 17278
+16937:17278:18040
+Mutated product: endonuclease
+Mutated gene:  
+
+Mutated Spot: 17293
+16937:17293:18040
+Mutated product: endonuclease
+Mutated gene:  
+
+Mutated Spot: 17296
+16937:17296:18040
+Mutated product: endonuclease
+Mutated gene:  
+
+Mutated Spot: 17236
+16937:17236:18040
+Mutated product: endonuclease
+Mutated gene:  
+
+Mutated Spot: 189614
+188759:189614:189664
+Mutated product: hypothetical protein
+Mutated gene:  
+
+Mutated Spot: 262031
+261028:262031:262068
+Mutated product: cell surface protein
+Mutated gene:  
+
+Mutated Spot: 27617
+26784:27617:27902
+Mutated product: glycosyltransferase
+Mutated gene:  
+
+Mutated Spot: 27612
+26784:27612:27902
+Mutated product: glycosyltransferase
+Mutated gene:  
+
+Mutated Spot: 27551
+26784:27551:27902
+Mutated product: glycosyltransferase
+Mutated gene:  
+
+Mutated Spot: 279092
+277823:279092:280135
+Mutated product: hypothetical protein
+Mutated gene:  
+
+Mutated Spot: 312730
+312719:312730:313021
+Mutated product: hypothetical protein
+Mutated gene:  
+
+Mutated Spot: 314338
+313510:314338:314790
+Mutated product: Uric acid permease PucJ
+Mutated gene:  
+
+Mutated Spot: 314334
+313510:314334:314790
+Mutated product: Uric acid permease PucJ
+Mutated gene:  
+
+Mutated Spot: 314333
+313510:314333:314790
+Mutated product: Uric acid permease PucJ
+Mutated gene:  
+
+Mutated Spot: 314341
+313510:314341:314790
+Mutated product: Uric acid permease PucJ
+Mutated gene:  
+
+Mutated Spot: 314332
+313510:314332:314790
+Mutated product: Uric acid permease PucJ
+Mutated gene:  
+
+Mutated Spot: 314344
+313510:314344:314790
+Mutated product: Uric acid permease PucJ
+Mutated gene:  
+
+Mutated Spot: 393296
+392654:393296:393583
+Mutated product: transposase
+Mutated gene:  
+
+Mutated Spot: 393324
+392654:393324:393583
+Mutated product: transposase
+Mutated gene:  
+
+Mutated Spot: 393317
+392654:393317:393583
+Mutated product: transposase
+Mutated gene:  
+
+Mutated Spot: 403673
+402396:403673:403744
+Mutated product: aminopeptidase
+Mutated gene:  
+
+Mutated Spot: 417594
+417511:417594:418380
+Mutated product: phosphate ABC transporter substrate-binding
+Mutated gene:  
+
+Mutated Spot: 48810
+48411:48810:48953
+Mutated product: cobalamin adenosyltransferase
+Mutated gene:  
+
+Mutated Spot: 48809
+48411:48809:48953
+Mutated product: cobalamin adenosyltransferase
+Mutated gene:  
+
+Mutated Spot: 51748
+49915:51748:52149
+Mutated product: ribonucleoside-triphosphate reductase,
+Mutated gene:  
+
+Mutated Spot: 51745
+49915:51745:52149
+Mutated product: ribonucleoside-triphosphate reductase,
+Mutated gene:  
+
+Mutated Spot: 57985
+56914:57985:58845
+Mutated product: PTS beta-glucoside transporter subunit EIIBCA
+Mutated gene:  
+
+Mutated Spot: 57991
+56914:57991:58845
+Mutated product: PTS beta-glucoside transporter subunit EIIBCA
+Mutated gene:  
+
+Mutated Spot: 58000
+56914:58000:58845
+Mutated product: PTS beta-glucoside transporter subunit EIIBCA
+Mutated gene:  
+
+Mutated Spot: 58006
+56914:58006:58845
+Mutated product: PTS beta-glucoside transporter subunit EIIBCA
+Mutated gene:  
+
+Mutated Spot: 57961
+56914:57961:58845
+Mutated product: PTS beta-glucoside transporter subunit EIIBCA
+Mutated gene:  
+
+Mutated Spot: 71722
+71614:71722:72843
+Mutated product: DNA replication initiation protein
+Mutated gene:  
+
+Mutated Spot: 71741
+71614:71741:72843
+Mutated product: DNA replication initiation protein
+Mutated gene:  
+
+Mutated Spot: 78682
+78651:78682:78726
+Mutated product: tRNA-Asn
+Mutated gene:  
+
+Mutated Spot: 95836
+95699:95836:95974
+Mutated product: hypothetical protein
+Mutated gene:  
+
+[['218174'], ['218740'], 'aldose epimerase', ' ']
+annotateVCF Complete.
